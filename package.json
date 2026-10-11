@@ -240,7 +240,7 @@
     },
     "publish": {
       "provider": "github",
-      "owner": "xiaoY233",
+      "owner": "guxiaoqi",
       "repo": "Chat2API"
     }
   }
